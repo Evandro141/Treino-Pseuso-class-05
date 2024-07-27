@@ -59,3 +59,9 @@ p:not(.negar) {
 p:only-child {
     color: red;
 }
+
+
+/* Aplicando Estilo aos Meus Titulos  */
+h1 {
+    background-color: green;
+}
